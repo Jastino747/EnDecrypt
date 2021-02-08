@@ -3,6 +3,6 @@ A simple text encryptor and decryptor. This program enables you to encrypt any t
 
 This program was built with Visual Studio 2017 Community, with .NET Framework.
 
-Take a peek at the "EnDecrypt" folder, for the project's source code. If you want to test the result only, simply run the .exe file inside the "0. Output" folder, use the .docx file for input text example, and have fun :)
+Take a peek at the "EnDecrypt" folder, for the project's source code, and "EnDecryptLibrary" for the encryption algorithm that I made. If you want to test the result only, simply run the .exe file inside the "0. Output" folder, use the .docx file for input text example, and have fun :)
 
 Created at: 24 May 2018
